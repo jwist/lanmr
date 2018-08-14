@@ -1053,12 +1053,12 @@
 			}
 
 				#header.alt nav a {
-					color: #00ff00;
+					color: #3e2faeff;
 					font-weight: 800;
 				}
 
 					#header.alt nav a:active, #header.alt nav a:hover {
-						color: #00ff00;
+						color: #3e2faeff;
 					}
 
 			#header.alt .button {
@@ -1121,7 +1121,7 @@
 		}
 
 		#banner h2 {
-			color: #00ff00;
+			color: #3e2faeff;
 			display: inline-block;
 			font-size: 3.5em;
 			line-height: 1.35;
@@ -1129,7 +1129,7 @@
 		}
 
 		#banner p {
-			color: #00ff00;
+			color: #3e2faeff;
 			font-size: 1.5em;
 			margin-bottom: 1.75em;
 			text-transform: uppercase;
