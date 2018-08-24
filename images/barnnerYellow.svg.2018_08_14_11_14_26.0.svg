@@ -995,11 +995,22 @@
        style="fill:none;stroke:#000000;stroke-width:0.35568148;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
     <path
        inkscape:connector-curvature="0"
-       id="path135"
+       id="path322"
        style="fill:none;stroke:#232323;stroke-width:0.3701382;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
        d="m -281.83896,46.306629 v 3.16466 l -2.7e-4,1.2011 c 0.24762,-0.0988 0.53004,-0.15472 0.82985,-0.15472 0.97421,0 1.76408,0.59076 1.76408,1.31956 0,0.7288 -0.78987,1.31992 -1.76408,1.31992 -0.2169,0 -0.42455,-0.0293 -0.61665,-0.0829"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        inkscape:export-filename="./banner.png" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-365.89197"
+       y="69.152733"
+       id="text326"><tspan
+         sodipodi:role="line"
+         id="tspan324"
+         x="-365.89197"
+         y="69.152733"
+         style="stroke-width:0.26458332">Latin American NMR Scho</tspan></text>
   </g>
 </svg>
